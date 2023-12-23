@@ -1,0 +1,14 @@
+{
+  "codeRepository": "[Test]JELLENE_REPO",
+  "resourceType": "EVENT",
+  "designParameters": 
+  [
+    {
+      "allowExpressions": true,
+      "defaultValue": "${id}",
+      "editorType": "TEXT",
+      "name": "PID",
+      "title": "PID"
+    }
+  ]
+}
