@@ -1,0 +1,26 @@
+{
+  "codeRepository": "[Test]JELLENE_GITHUB_SSH",
+  "description": "local",
+  "parentLoadBalancer": "JM_IBMMQ",
+  "serverNodeType": "IBM_MQ",
+  "totalWeightCapacity": 500,
+  "configuration": {
+    "AgentHeartbeat": 30000,
+    "NoOfPrcss": 20,
+    "connectionTimeout": 60000,
+    "enfPort": 4445,
+    "ftpInterval": 5000,
+    "sysoutMaxAgeInDays": 180
+  },
+  "customFieldValues": {
+    "NP": "test 1"
+  },
+  "endpoints": 
+  [
+    {
+      "defaultEndpoint": true,
+      "endpoint": "JELLENE_IBM_ENDPOINT",
+      "endpointType": "IBM_MQ"
+    }
+  ]
+}
