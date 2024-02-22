@@ -1,0 +1,29 @@
+{
+  "codeRepository": "[Test]JELLENE_GITHUB_SSH",
+  "description": "laptop",
+  "serverNodeType": "ORACLE",
+  "totalWeightCapacity": 50,
+  "configuration": {
+    "AgentHeartbeat": 30000,
+    "NoOfPrcss": 40,
+    "connectionTimeout": 60000,
+    "enfPort": 4445,
+    "ftpInterval": 5000,
+    "logLevel": "INFO",
+    "logMaxFiles": 108,
+    "maxLogSize": 9,
+    "sysoutMaxAgeInDays": 180
+  },
+  "endpoints": 
+  [
+    {
+      "defaultEndpoint": true,
+      "endpoint": "JELLENE_ORACLE_ENDPOINT",
+      "endpointType": "ORACLE"
+    },
+    {
+      "endpoint": "140.83.85.86",
+      "endpointType": "ORACLE"
+    }
+  ]
+}
