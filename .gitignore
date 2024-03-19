@@ -1,4 +1,6 @@
 *
-!*.MCA-DEMO.*
+#!*.MCA-DEMO.*
+!Resource/*.MCA-DEMO.*
+
 !*.md
 !CODEOWNERS
