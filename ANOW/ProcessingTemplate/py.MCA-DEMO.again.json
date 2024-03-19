@@ -1,0 +1,9 @@
+{
+  "owner": "jellene",
+  "priority": "0",
+  "processingType": "TASK",
+  "serverNodeType": "WINDOWS",
+  "taskType": "PYTHON",
+  "customFieldValues": {
+  }
+}
