@@ -1,5 +1,7 @@
 *
 #!*.MCA-DEMO.*
+!Resource/
+Resource/*
 !Resource/*.MCA-DEMO.*
 
 !*.md
