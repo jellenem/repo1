@@ -1,0 +1,7 @@
+{
+  "codeRepository": "[Test]JELLENE_REPO",
+  "isRule": true,
+  "processingActionType": "RESTART",
+  "processingEventCategory": "PROCESSING",
+  "processingEventType": "PROCESSING_LOADED"
+}
