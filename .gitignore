@@ -1,8 +1,9 @@
 /**
-!root/
-!root/*/
-root/*/*
-!root/*/*.MCA-DEMO.*
+
+!ANOW/
+!ANOW/*/
+ANOW/*/*
+!ANOW/*/*.MCA-DEMO.*
 
 !*.md
 !CODEOWNERS
