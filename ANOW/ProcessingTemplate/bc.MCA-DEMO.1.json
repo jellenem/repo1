@@ -1,0 +1,8 @@
+{
+  "owner": "jellene",
+  "priority": "0",
+  "processingType": "WORKFLOW",
+  "workflowType": "BROADCAST",
+  "customFieldValues": {
+  }
+}
